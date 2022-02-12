@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2022-02-12
 ### Added
+- Text Timeline core interface.
 
-[Unreleased]: 
-[0.0.1]: 
+[Unreleased]: https://github.com/Fangjun-Zhou/Text-Timeline-Release
+[0.0.1]: https://github.com/Fangjun-Zhou/Text-Timeline-Release
