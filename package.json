@@ -1,0 +1,17 @@
+{
+  "name": "com.fintokmak.texttimeline",
+  "version": "0.0.1",
+  "displayName": "Text Timeline",
+  "description": "The backend service of text timeline system.",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "license": "GPL",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "FinTOKMAK Studio",
+    "email": "fangjun.zhou02@gmail.com"
+  }
+}
